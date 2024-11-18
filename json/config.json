@@ -1,0 +1,8 @@
+{
+    "host": "eventmanagementdb.c7cm84scmvyo.ap-southeast-1.rds.amazonaws.com",
+    "port": 3306,
+    "user": "admin",
+    "password": "Admin123456789",
+    "db": "event_manager"
+  }
+  
